@@ -1,0 +1,6 @@
+{
+  "name": "MONITOR CLIMÁTICO REAL PLAZA",
+  "description": "Centro de control meteorológico preventivo para los equipos de Mantenimiento y Operaciones de Real Plaza en Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
